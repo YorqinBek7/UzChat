@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962440676749",
+    "project_id": "uzchat-83266",
+    "storage_bucket": "uzchat-83266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962440676749:android:ff97aa0d92f01cef6aa9c4",
+        "android_client_info": {
+          "package_name": "com.example.uzchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962440676749-r4sosg4a32khf7bt14an8eotejrluhev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9o2yAHNp8IJM1leaBQe0h9-R4n9W0ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962440676749-r4sosg4a32khf7bt14an8eotejrluhev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
