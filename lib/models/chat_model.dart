@@ -5,6 +5,7 @@ class ChatModel {
   final String date;
   final String imageUrl;
   final String profilePhoto;
+
   ChatModel({
     required this.id,
     required this.messages,

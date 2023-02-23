@@ -15,9 +15,6 @@ class SelectChatScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print(FirebaseAuth.instance.currentUser!.displayName);
-    print(FirebaseAuth.instance.currentUser!.email);
-    print(FirebaseAuth.instance.currentUser!.uid);
     return StreamBuilder(
       stream: Connectivity().onConnectivityChanged,
       builder: (context, snapshot) {

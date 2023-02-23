@@ -85,7 +85,7 @@ class PrivateChatScreen extends StatelessWidget {
                             message: sms,
                             name: currentUser.displayName!,
                             imageUrl: '',
-                            profilePhoto: currentUser.photoURL ?? '',
+                            profilePhoto: currentUser.photoURL ?? ' ',
                           )
                           .then(
                             (value) => scrollController.jumpTo(
